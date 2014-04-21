@@ -7,4 +7,8 @@ ScreenShot:
 
 ![alt tag](sreenshot/1.JPG)
 
+![alt tag](sreenshot/2.JPG)
+
+![alt tag](sreenshot/3.JPG)
+
 
